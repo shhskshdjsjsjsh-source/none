@@ -1,22 +1,3 @@
---[[
-    NOVA HUB | UNIVERSAL LOADER
-    Version: 4.2.0
-    Author: nexustester
-    Discord: https://discord.gg/c2q9Sn2mDP
-
-    Supported experiences:
-      Legends of Speed  - 3101667897 (Main), 3232996272 (Space), 3276265788 (Desert)
-      Muscle Legends   - 3623096087
-      The Classic Soccer (TCS) - 13664698400
-
-    This loader is original code. The game-specific scripts are fetched
-    from the author's GitHub repository, not embedded in this file.
-
-    Unknown Place IDs automatically use None Universal (None GOAT).
-    No activation screens, license validation or premium gates.
-    Automatically starts the script for the detected game.
-]]
-
 if not game:IsLoaded() then
     game.Loaded:Wait()
 end
